@@ -35,7 +35,7 @@ new_name = name.replace('teja','charan')
 print(new_name)                           #also can assign to existing variable(name)
 
 #string concatination
-greeting = 'Hello'
+greeting = 'Hello Hi'
 welcome_msg = 'Welcome to my Home'
 
 message = '{}, {} and have lunch.'.format(greeting,welcome_msg)
